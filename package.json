@@ -1,0 +1,20 @@
+{
+  "name": "bubblebuddy",
+  "version": "1.0.0",
+  "description": "bubble buddy line bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [
+    "line",
+    "bot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "fs-extra": "^7.0.1",
+    "linebot": "^1.4.1"
+  }
+}
